@@ -20,7 +20,7 @@ h1 {
 
 .paragraph-3 {
     font-style: italic;
-    margin: 50px;
+    text-align: center;
     font-size: 24px;
-    background-color: green;
+    text-shadow: green 2px 3px 4px;
 }
